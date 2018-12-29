@@ -1,24 +1,26 @@
-import sys, pygame
+import pygame
 import time
 import random
 pygame.init()
 
-size = width, height = 400, 400
-speed = [0, 1]
+width = 400
+height = 400
+#speed = [0, 1]
 black = 0, 0, 0
 white = 255,255,255
 blue = 0,0,255
 green = 0,255,0
 car_width=90
 
-screen = pygame.display.set_mode(size)
-pygame.display.set_caption('Racing car')
+screen = pygame.display.set_mode((width,height))
+pygame.display.set_caption('Racing car hurdle cross')
+clock = pygame.time.Clock()
 
 car = pygame.image.load("C:\Users\Rishabh\Downloads\download1.png")
-carrect = car.get_rect()
+#carrect = car.get_rect()
 
 def obstacle(obx,oby,obw,obh,color):
-    pygame.draw.rect(screen,color,[obx,oby,obw,oby])
+    pygame.draw.rect(screen,color,[obx,oby,obw,obh])
 
 def racecar(x,y):
     screen.blit(car,(x,y))
@@ -48,14 +50,16 @@ def game():
 
     ob_startx = random.randrange(0,width)
     ob_starty = -600
-    ob_speed = 2
+    ob_speed = 5
     ob_width = 20
     ob_height = 20
     
     while 1:
         for event in pygame.event.get():
-            if event.type == pygame.QUIT: sys.exit()
-
+            if event.type == pygame.QUIT: #sys.exit()
+                pygame.quit()
+                quit()
+                
             if event.type == pygame.KEYDOWN:
                 if event.key == pygame.K_LEFT:
                     x_change = -5
@@ -80,22 +84,24 @@ def game():
         
         racecar(x,y)
 
-        if x>(width-car_width) or x<0:
+        if x > width - car_width or x < 0:
             crash()
     #screen.blit(car, carrect)
 
         if ob_starty > height:
-            ob_starty = 0-height
+            ob_starty = 0 - ob_height
             ob_startx = random.randrange(0,width)
 
-        if y<(ob_starty+ob_height):
+        if y < ob_starty+ob_height:
             print "y crossover"
 
-            if x>ob_startx and x<ob_startx+ob_width or x+car_width > ob_startx and x+car_width < ob_startx+ob_width:
+            if x > ob_startx and x < ob_startx + ob_width or x+car_width > ob_startx and x + car_width < ob_startx+ob_width:
                 print "x crossover"
                 crash()
 
-        pygame.display.flip()
+        #pygame.display.flip()
+        pygame.display.update()
+        clock.tick(60)
 
 game()
 pygame.quit()
