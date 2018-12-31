@@ -13,3 +13,7 @@ Changed plans.
 Now developing a hurdle kind of game.
 
 Spent the day in improvising and debugging previous code.
+
+Day 3 ->
+
+Completed basic outlook of the game including scoring and increase in difficulty level.
