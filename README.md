@@ -17,3 +17,7 @@ Spent the day in improvising and debugging previous code.
 #Day 3 ->
 
 Completed basic outlook of the game including scoring and increase in difficulty level.
+
+#Day 4 ->
+
+Read docs from official site and looked for upcoming projects.
