@@ -21,3 +21,7 @@ Completed basic outlook of the game including scoring and increase in difficulty
 #Day 4 ->
 
 Read docs from official site and looked for upcoming projects.
+
+#Day 5 ->
+
+Improvised on the same game by creating starting menu.
