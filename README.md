@@ -25,3 +25,7 @@ Read docs from official site and looked for upcoming projects.
 #Day 5 ->
 
 Improvised on the same game by creating starting menu.
+
+#Day 6 ->
+
+Wrapped up first game with sound effects and introduction of dark theme.
