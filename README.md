@@ -33,3 +33,7 @@ Wrapped up first game with sound effects and introduction of dark theme.
 #Day 7 ->
 
 Back to machine learning practice starting with logistic regression for classification problems.
+
+#Day 8 ->
+
+Diving deeper into basics of pandas module in python.
