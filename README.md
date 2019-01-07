@@ -37,3 +37,7 @@ Back to machine learning practice starting with logistic regression for classifi
 #Day 8 ->
 
 Diving deeper into basics of pandas module in python.
+
+#Day 9 ->
+
+First open source contribution to mozilla addons.
