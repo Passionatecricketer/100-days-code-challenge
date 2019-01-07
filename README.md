@@ -41,3 +41,7 @@ Diving deeper into basics of pandas module in python.
 #Day 9 ->
 
 First open source contribution to mozilla addons.
+
+#Day 10 ->
+
+Completed first lesson of udacity course on intro to data analysis.
