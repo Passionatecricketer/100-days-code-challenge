@@ -45,3 +45,7 @@ First open source contribution to mozilla addons.
 #Day 10 ->
 
 Completed first lesson of udacity course on intro to data analysis.
+
+#Day 11 ->
+
+Going on with udacity course
