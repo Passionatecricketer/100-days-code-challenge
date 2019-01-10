@@ -48,4 +48,8 @@ Completed first lesson of udacity course on intro to data analysis.
 
 #Day 11 ->
 
-Going on with udacity course
+Going on with udacity course.
+
+#Day 12 ->
+
+Spent day setting up ssh key,token etc on github and setting up profile on linkdn and moziilian.
