@@ -61,3 +61,7 @@ Revisting old work to improvise
 #Day 14 ->
 
 Continuing with improvisation
+
+#Day 15 ->
+
+Understanding matplotlib
