@@ -65,3 +65,7 @@ Continuing with improvisation
 #Day 15 ->
 
 Understanding matplotlib
+
+#Day 16 ->
+
+Advanced matplotlib and basic seaborn
