@@ -69,3 +69,7 @@ Understanding matplotlib
 #Day 16 ->
 
 Advanced matplotlib and basic seaborn
+
+#Day 17 ->
+
+Done with graphing and plotting
