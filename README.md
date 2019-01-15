@@ -73,3 +73,7 @@ Advanced matplotlib and basic seaborn
 #Day 17 ->
 
 Done with graphing and plotting
+
+#Day 18 ->
+
+Linear Regreesion Practice
