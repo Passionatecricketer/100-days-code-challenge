@@ -76,4 +76,8 @@ Done with graphing and plotting
 
 #Day 18 ->
 
-Linear Regreesion Practice
+Linear Regression Practice
+
+#Day 19 ->
+
+Logistic Regression Practice
