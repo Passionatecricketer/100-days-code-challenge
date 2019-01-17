@@ -81,3 +81,7 @@ Linear Regression Practice
 #Day 19 ->
 
 Logistic Regression Practice
+
+#Day 20 ->
+
+K-Nearest Neighbour classification practice
