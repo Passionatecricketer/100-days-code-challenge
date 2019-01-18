@@ -85,3 +85,7 @@ Logistic Regression Practice
 #Day 20 ->
 
 K-Nearest Neighbour classification practice
+
+#Day 21 ->
+
+Support Vector Machine practice
