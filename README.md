@@ -89,3 +89,7 @@ K-Nearest Neighbour classification practice
 #Day 21 ->
 
 Support Vector Machine practice
+
+#Day 22 ->
+
+Understanding basics of trees
