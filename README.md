@@ -93,3 +93,11 @@ Support Vector Machine practice
 #Day 22 ->
 
 Understanding basics of trees
+
+#Day 23 ->
+
+K-means Clustering
+
+#Day 24 ->
+
+Recommender System
