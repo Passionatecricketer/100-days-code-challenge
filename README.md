@@ -101,3 +101,7 @@ K-means Clustering
 #Day 24 ->
 
 Recommender System
+
+#Day 25 ->
+
+Principle Component Analysis
