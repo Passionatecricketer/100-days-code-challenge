@@ -105,3 +105,7 @@ Recommender System
 #Day 25 ->
 
 Principle Component Analysis
+
+#Day 26 ->
+
+Natural language processing
