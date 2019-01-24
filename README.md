@@ -109,3 +109,7 @@ Principle Component Analysis
 #Day 26 ->
 
 Natural language processing
+
+#Day 27 ->
+
+Practice on Natural language processing
