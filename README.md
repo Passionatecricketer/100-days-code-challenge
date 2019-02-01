@@ -130,6 +130,18 @@ Submission made
 
 Started with datathon
 
-#Day32 ->
+#Day 32 ->
 
 Improving score on twitter sentiment analysis
+
+#Day 33 ->
+
+Practicing on datasets
+ 
+#Day 34 ->
+
+On practice mode
+
+#Day 35 ->
+
+Wrapped up Twitter SEntioment Analysis
