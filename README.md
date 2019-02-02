@@ -145,3 +145,7 @@ On practice mode
 #Day 35 ->
 
 Wrapped up Twitter SEntioment Analysis
+
+#Day 36 ->
+
+Automated pipelines and data versioning
