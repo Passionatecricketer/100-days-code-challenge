@@ -149,3 +149,7 @@ Wrapped up Twitter SEntioment Analysis
 #Day 36 ->
 
 Automated pipelines and data versioning
+
+#Day 37 ->
+
+Spent day setting up tensorflow environment
