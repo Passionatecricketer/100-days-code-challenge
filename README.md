@@ -153,3 +153,7 @@ Automated pipelines and data versioning
 #Day 37 ->
 
 Spent day setting up tensorflow environment
+
+#Day 38 ->
+
+Taking up new project
