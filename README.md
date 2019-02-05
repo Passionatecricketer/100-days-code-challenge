@@ -157,3 +157,7 @@ Spent day setting up tensorflow environment
 #Day 38 ->
 
 Taking up new project
+
+#Day 39 ->
+
+Improvising same project
