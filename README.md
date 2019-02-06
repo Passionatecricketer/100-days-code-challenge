@@ -161,3 +161,7 @@ Taking up new project
 #Day 39 ->
 
 Improvising same project
+
+#Day 40 ->
+
+Finetuning the model
