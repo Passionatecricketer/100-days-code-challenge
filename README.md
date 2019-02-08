@@ -169,3 +169,7 @@ Finetuning the model
 #Day 41 ->
 
 Onto final stage
+
+#Day 42 ->
+
+Finished project
