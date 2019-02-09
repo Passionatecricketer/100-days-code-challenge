@@ -173,3 +173,7 @@ Onto final stage
 #Day 42 ->
 
 Finished project
+
+#Day 43 ->
+
+Gathering data 
