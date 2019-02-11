@@ -181,3 +181,7 @@ Gathering data
 #Day 44 ->
  
 Dataset and dataset
+
+#Day 45 ->
+
+Break from NLP
