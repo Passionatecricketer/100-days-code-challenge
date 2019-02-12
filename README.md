@@ -189,3 +189,7 @@ Break from NLP
 #Day 46 ->
 
 Recommendation Engine
+
+#Day 47 ->
+
+Finally successful in setting up environment
