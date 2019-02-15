@@ -197,3 +197,7 @@ Finally successful in setting up environment
 #Day 48 ->
 
 Tackling same issues
+
+#Day 49 ->
+
+Finishing recommender system project
