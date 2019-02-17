@@ -201,3 +201,11 @@ Tackling same issues
 #Day 49 ->
 
 Finishing recommender system project
+
+#Day 50 ->
+
+Halfway down and inclined towards deep learning for now
+
+#Day 51 ->
+
+Continuing with deep learning concepts
