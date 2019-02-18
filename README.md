@@ -209,3 +209,7 @@ Halfway down and inclined towards deep learning for now
 #Day 51 ->
 
 Continuing with deep learning concepts
+
+#Day 52 ->
+
+Diving into Neural networks
