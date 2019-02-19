@@ -213,3 +213,7 @@ Continuing with deep learning concepts
 #Day 52 ->
 
 Diving into Neural networks
+
+#Day 53 ->
+
+Practice on NN
