@@ -217,3 +217,7 @@ Diving into Neural networks
 #Day 53 ->
 
 Practice on NN
+
+#Day 54 ->
+
+Tried Implementing newly learned techniques
