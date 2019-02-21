@@ -221,3 +221,7 @@ Practice on NN
 #Day 54 ->
 
 Tried Implementing newly learned techniques
+
+#Day 55 ->
+
+Practicing skills
