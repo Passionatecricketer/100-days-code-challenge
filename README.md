@@ -225,3 +225,7 @@ Tried Implementing newly learned techniques
 #Day 55 ->
 
 Practicing skills
+
+#Day 56 ->
+
+Understanding ANN
