@@ -229,3 +229,7 @@ Practicing skills
 #Day 56 ->
 
 Understanding ANN
+
+#Day 57 ->
+
+Getting into CNN's
