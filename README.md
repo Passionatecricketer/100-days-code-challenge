@@ -233,3 +233,7 @@ Understanding ANN
 #Day 57 ->
 
 Getting into CNN's
+
+#Day 58 ->
+
+Trying to deploy nn's
