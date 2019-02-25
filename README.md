@@ -237,3 +237,7 @@ Getting into CNN's
 #Day 58 ->
 
 Trying to deploy nn's
+
+#Day 59 ->
+
+Starting new project
