@@ -241,3 +241,7 @@ Trying to deploy nn's
 #Day 59 ->
 
 Starting new project
+
+#Day 60 ->
+
+Continuing with same project
