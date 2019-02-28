@@ -249,3 +249,7 @@ Continuing with same project
 #Day 61 ->
 
 Preparing excel sheet for analysis
+
+#Day 62 ->
+
+Web scrapping
