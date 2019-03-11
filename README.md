@@ -266,6 +266,6 @@ Improvisation
 
 Final stages
 
-#Day 66 - 72 ->
+#Day 66 - 73 ->
 
 Understanding convolutional neural networks in depth
