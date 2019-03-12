@@ -269,3 +269,7 @@ Final stages
 #Day 66 - 73 ->
 
 Understanding convolutional neural networks in depth
+
+#Day 74 ->
+
+Looking up for some projects
