@@ -273,3 +273,11 @@ Understanding convolutional neural networks in depth
 #Day 74 ->
 
 Looking up for some projects
+
+#Day 75 ->
+
+Internship work
+
+#Day 76 ->
+
+Building Resume
