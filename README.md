@@ -278,6 +278,6 @@ Looking up for some projects
 
 Internship work
 
-#Day 76 ->
+#Day 76-77 ->
 
 Building Resume
