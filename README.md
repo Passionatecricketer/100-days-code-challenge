@@ -281,3 +281,7 @@ Internship work
 #Day 76-77 ->
 
 Building Resume
+
+#Day 78 ->
+
+Setting up environment
