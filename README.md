@@ -289,3 +289,7 @@ Setting up environment
 #Day 79 ->
 
 Recording Audio using pyaudio
+
+#Day 80 ->
+
+Learning speech to text convertion using python
