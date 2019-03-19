@@ -293,3 +293,7 @@ Recording Audio using pyaudio
 #Day 80 ->
 
 Learning speech to text convertion using python
+
+#Day 81 ->
+
+Text to speech converter
