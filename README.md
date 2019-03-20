@@ -297,3 +297,7 @@ Learning speech to text convertion using python
 #Day 81 ->
 
 Text to speech converter
+
+#Day 82 ->
+
+Implementing speech to text conversion
