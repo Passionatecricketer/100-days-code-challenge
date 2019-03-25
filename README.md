@@ -313,3 +313,11 @@ Further modifications
 #Day 85 ->
 
 Speech to text game
+
+#Day 86 ->
+
+Started new project
+
+#Day 87 ->
+
+Completed EDA
