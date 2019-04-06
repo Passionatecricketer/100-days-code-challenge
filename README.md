@@ -337,3 +337,7 @@ Another research paper
 #Day 91 ->
 
 New Project
+
+#Day 92-96 ->
+
+Completed project from kaggle competetion
